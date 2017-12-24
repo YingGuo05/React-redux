@@ -1,0 +1,10 @@
+module.exports={
+    googleClientId:'668725286020-0eriitpt5rb241ha9hig5a7j8q0aoo0q.apps.googleusercontent.com',
+    googleClientSecret:'N4h9bBUtgB5G8gUoBRxfXEnQ',
+    mongoURI:'mongodb://heroku_z5r38wcm:1o2ripq62puk4ueltn2d9qpr3r@ds113736.mlab.com:13736/heroku_z5r38wcm',
+    cookieKey:'sdfsfgdhrw',
+    stripePublishableKey:'pk_test_VEK70VrLTHYp6OMJBXb78nkw',
+    stripeSecretKey:'sk_test_lCNztwHBa0qr5eqLyAZE9blz',
+    sendGridKey:'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',
+    redirectDomain:'http://localhost:3000'
+}
